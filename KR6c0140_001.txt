@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:07.064688
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:04
 #+TITLE: 般若心經略疏連珠記
 #+PROPERTY: CBETA_ID T33n1713
 #+PROPERTY: ID KR6c0140
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1713
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0140_T_000-0555b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0140_T_001-0555b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -14,9 +14,8 @@
 ¶
 ¶
 ¶
-No.1713[cf.Nos.251,1712]¶
-
- 般若心經略疏連珠記上¶
+No. 1713 [cf. Nos. 251, 1712]¶
+般若心經略疏連珠記上¶
 ¶
 
 立斯題者。示無胸臆爾。謂此記文。¶

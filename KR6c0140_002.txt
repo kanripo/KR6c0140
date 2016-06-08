@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:07.103998
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:04
 #+TITLE: 般若心經略疏連珠記
 #+PROPERTY: CBETA_ID T33n1713
 #+PROPERTY: ID KR6c0140
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1713
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0140_T_000-0555b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0140_T_002-0561c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 般若心經略疏連珠記下¶
+般若心經略疏連珠記下¶
 ¶
 宋玉峯沙門師會述¶
 
